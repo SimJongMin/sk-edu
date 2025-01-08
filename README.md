@@ -1,3 +1,7 @@
- sk-edu
+sk-edu
 git, github 강의 테스트용
-수정
+테스트 입니다.
+test
+
+asdfasdfasdf
+........
